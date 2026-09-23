@@ -11,9 +11,8 @@
   <a href="mailto:waghnikhil1018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
 </p>
 
-👋 Hi! I'm Nikhil Wagh, a final-year Computer Engineering student and Web Developer Intern at Parisar NGO, from Pune, India.
+👋 Hi! I'm Nikhil Wagh, a Computer Engineering student from Pune who loves building things people actually use.
 
-🚴 I built **CycleAudit**, a live PHP/MySQL platform used by 15+ volunteers to audit Pune's cycling infrastructure.
 
 ---
 

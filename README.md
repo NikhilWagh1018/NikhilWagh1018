@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Nikhil%20Wagh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Android%20%7C%20Web%20Developer&descSize=20&descAlignY=60" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/NikhilWagh1018/NikhilWagh1018/main/assets/banner.svg" alt="Banner" />
 </p>
 
 <p align="center">

@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhil-wagh-8716003a2"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" /></a>
-  <a href="mailto:waghnikhil1018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=waghnikhil1018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" /></a>
 </p>
 
 👋 Hi! I'm Nikhil Wagh, a Computer Engineering student from Pune who loves building things people actually use.
